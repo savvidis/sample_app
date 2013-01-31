@@ -1,2 +1,9 @@
-<h1>Pages#home</h1>
+
+<h1>Pages | <%=@title%></h1>
 <p>Find me in app/views/pages/home.html.erb</p>
+=======
+
+<h1>Pages#  <%= @title %></h1>
+<h2> Ruby tutorial| <%= @title %> </h2>
+<p>Find me in app/views/pages/<%=@title%>.html.erb</p>
+

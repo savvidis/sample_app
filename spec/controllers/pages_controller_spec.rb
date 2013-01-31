@@ -16,6 +16,7 @@ describe PagesController do
     end
   end
 
+<<<<<<< HEAD
   describe "GET 'about'" do
     it "should be successful" do
       get 'about'
@@ -23,4 +24,6 @@ describe PagesController do
     end
   end
 
+=======
+>>>>>>> static-pages
 end

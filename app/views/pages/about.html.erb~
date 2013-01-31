@@ -1,9 +1,9 @@
-
-<h1>Pages | <%=@title%></h1>
-<p>Find me in app/views/pages/home.html.erb</p>
-
+<<<<<<< HEAD
+<h1>Pages#about</h1>
+<p>Find me in app/views/pages/about.html.erb</p>
+=======
 
 <h1>Pages#  <%= @title %></h1>
 <h2> Ruby tutorial| <%= @title %> </h2>
 <p>Find me in app/views/pages/<%=@title%>.html.erb</p>
-
+>>>>>>> static-pages
